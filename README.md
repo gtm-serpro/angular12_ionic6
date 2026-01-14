@@ -7,7 +7,7 @@ Projeto Ionic configurado com Angular 12.
 - Angular: 12.2.16
 - Ionic: 6.7.5
 - TypeScript: 4.3.5
-- Node: Recomendado 14.x ou 16.x
+- Node: 16.x
 
 ## Instalação
 
